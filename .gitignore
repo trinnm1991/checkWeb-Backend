@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+App_Data/
+.env
+*.env
+!*.env.example
+appsettings.*.local.json
+appsettings.Development.json
+__pycache__/

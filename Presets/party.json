@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "id": "party",
+  "name": "Đảng ủy Đại học Trà Vinh",
+  "shortName": "ĐẢNG ỦY",
+  "subtitle": "ĐẠI HỌC TRÀ VINH",
+  "source": "https://danguy.tvu.edu.vn/",
+  "checkedAt": "",
+  "theme": "party",
+  "modules": [
+    {
+      "id": "home",
+      "type": "hero",
+      "title": "Đoàn kết, trách nhiệm.\nKỷ cương, phát triển.",
+      "text": "Bản mẫu cổng thông tin công tác Đảng: phục vụ tra cứu, phổ biến thông tin và kết nối các tổ chức đảng trực thuộc. Nội dung cần được duyệt trước khi công bố.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Cổng thông tin Đảng ủy",
+          "text": "Truy cập website tham chiếu",
+          "url": "https://danguy.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://danguy.tvu.edu.vn/"
+    },
+    {
+      "id": "links",
+      "type": "links",
+      "title": "Thông tin cần tra cứu",
+      "text": "",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Văn bản, hướng dẫn",
+          "text": "",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Công tác xây dựng Đảng",
+          "text": "",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Sinh hoạt chi bộ",
+          "text": "",
+          "url": "https://danguy.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://danguy.tvu.edu.vn/"
+    },
+    {
+      "id": "news",
+      "type": "news",
+      "title": "Thông tin, hoạt động",
+      "text": "Bố cục minh họa; không phải thông báo triệu tập, lịch công tác hoặc nội dung đã ban hành.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Công tác lãnh đạo, chỉ đạo",
+          "text": "Khu vực đăng tải thông tin đã được cấp có thẩm quyền phê duyệt.",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Sinh hoạt của tổ chức đảng",
+          "text": "Khu vực thông tin về hoạt động của các tổ chức đảng trực thuộc.",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Giáo dục chính trị, tư tưởng",
+          "text": "Khu vực giới thiệu tài liệu và nội dung tuyên truyền được phép phổ biến.",
+          "url": "https://danguy.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://danguy.tvu.edu.vn/"
+    },
+    {
+      "id": "construction",
+      "type": "cards",
+      "title": "Công tác xây dựng Đảng",
+      "text": "Sắp xếp chuyên mục rõ ràng, thuận tiện trong tra cứu và thực hiện nhiệm vụ.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Tổ chức và đảng viên",
+          "text": "Hướng dẫn nghiệp vụ và thông tin được phép công khai.",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Kiểm tra, giám sát",
+          "text": "Vị trí dành cho văn bản, hướng dẫn theo thẩm quyền.",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Dân vận và đoàn thể",
+          "text": "Thông tin phối hợp và hoạt động tại đơn vị.",
+          "url": "https://danguy.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://danguy.tvu.edu.vn/"
+    },
+    {
+      "id": "documents",
+      "type": "list",
+      "title": "Văn bản và hướng dẫn",
+      "text": "Chỉ đăng văn bản được phép công khai; bản mẫu không tạo số hiệu, ngày ban hành hoặc nội dung nghị quyết.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Văn bản chỉ đạo",
+          "text": "Danh mục mẫu, chưa đính kèm văn bản",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Hướng dẫn nghiệp vụ",
+          "text": "Danh mục mẫu, chưa đính kèm tài liệu",
+          "url": "https://danguy.tvu.edu.vn/"
+        },
+        {
+          "title": "Biểu mẫu công tác Đảng",
+          "text": "Danh mục mẫu, cần duyệt nội dung",
+          "url": "https://danguy.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://danguy.tvu.edu.vn/"
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "title": "Đầu mối liên hệ",
+      "text": "Thông tin tiếp nhận và hướng dẫn công tác sẽ được bổ sung sau khi xác nhận với đơn vị.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Website Đảng ủy",
+          "text": "danguy.tvu.edu.vn",
+          "url": "https://danguy.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://danguy.tvu.edu.vn/"
+    }
+  ]
+}

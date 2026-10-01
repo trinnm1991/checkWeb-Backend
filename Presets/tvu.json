@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "id": "tvu",
+  "name": "Đại học Trà Vinh",
+  "shortName": "TVU",
+  "subtitle": "TRA VINH UNIVERSITY",
+  "source": "https://www.tvu.edu.vn/",
+  "checkedAt": "2026-09-29",
+  "modules": [
+    {
+      "id": "home",
+      "type": "hero",
+      "title": "Cơ hội học tập.\nGiá trị cộng đồng.",
+      "text": "Đại học công lập với định hướng ứng dụng, kết nối học tập, nghiên cứu và phục vụ cộng đồng.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Tìm hiểu tuyển sinh",
+          "text": "",
+          "url": "https://tuyensinh.tvu.edu.vn/"
+        },
+        {
+          "title": "Lịch sử và định hướng",
+          "text": "",
+          "url": "https://www.tvu.edu.vn/lich-su-phat-trien/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/lich-su-phat-trien/"
+    },
+    {
+      "id": "services",
+      "type": "links",
+      "title": "Dành cho người học",
+      "text": "",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Cổng sinh viên",
+          "text": "",
+          "url": "https://ttsv.tvu.edu.vn/"
+        },
+        {
+          "title": "Học trực tuyến",
+          "text": "",
+          "url": "https://online.tvu.edu.vn/"
+        },
+        {
+          "title": "Thư viện & học liệu",
+          "text": "",
+          "url": "https://celri.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/"
+    },
+    {
+      "id": "discover",
+      "type": "cards",
+      "title": "Học tập gắn với thực tiễn",
+      "text": "Tìm hiểu những định hướng của TVU qua các kênh chính thức.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Học tập ứng dụng",
+          "text": "Chương trình chú trọng năng lực nghề nghiệp và trải nghiệm thực tế.",
+          "url": "https://www.tvu.edu.vn/lich-su-phat-trien/"
+        },
+        {
+          "title": "Nghiên cứu khoa học",
+          "text": "Tiếp cận hoạt động nghiên cứu và chuyển giao.",
+          "url": "https://khcn.tvu.edu.vn/"
+        },
+        {
+          "title": "Kết nối cộng đồng",
+          "text": "Tìm cơ hội phát triển nghề nghiệp và kết nối việc làm.",
+          "url": "https://dichvuvieclam.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/lich-su-phat-trien/"
+    },
+    {
+      "id": "numbers",
+      "type": "stats",
+      "title": "TVU qua những con số",
+      "text": "Số liệu được trang chủ công bố tại thời điểm đối chiếu; xem nguồn để kiểm tra cập nhật.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "20.000+",
+          "text": "Người học",
+          "url": "https://www.tvu.edu.vn/"
+        },
+        {
+          "title": "50",
+          "text": "Chương trình bậc đại học",
+          "url": "https://www.tvu.edu.vn/"
+        },
+        {
+          "title": "39",
+          "text": "Chương trình sau đại học",
+          "url": "https://www.tvu.edu.vn/"
+        },
+        {
+          "title": "90+",
+          "text": "Đối tác trong mạng lưới quốc tế",
+          "url": "https://www.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/"
+    },
+    {
+      "id": "study",
+      "type": "list",
+      "title": "Chọn hành trình học tập",
+      "text": "Truy cập kênh phụ trách để xem thông báo, điều kiện và hồ sơ hiện hành.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Bậc đại học",
+          "text": "Thông tin dành cho thí sinh",
+          "url": "https://tuyensinh.tvu.edu.vn/"
+        },
+        {
+          "title": "Sau đại học",
+          "text": "Chương trình và thông báo tuyển sinh",
+          "url": "https://sdh.tvu.edu.vn/"
+        },
+        {
+          "title": "Học từ xa",
+          "text": "Kênh đào tạo trực tuyến",
+          "url": "https://www.tvudaihocso.edu.vn/"
+        },
+        {
+          "title": "Liên thông & vừa làm vừa học",
+          "text": "Thông tin từ đơn vị đào tạo",
+          "url": "https://daotao.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/"
+    },
+    {
+      "id": "news",
+      "type": "news",
+      "title": "Nhịp sống TVU",
+      "text": "Bài viết được chọn từ website chính thức, không phải bảng tin cập nhật trực tiếp.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Góc nhìn kinh tế về tài sản số",
+          "text": "Hoạt động học thuật dành cho sinh viên khối kinh tế và luật.",
+          "url": "https://www.tvu.edu.vn/sinh-vien-truong-kinh-te-luat-tiep-can-tai-san-so-tu-goc-nhin-kinh-te-va-quan-tri/"
+        },
+        {
+          "title": "Hội thi kỹ năng sư phạm 2026–2027",
+          "text": "Đọc thông tin khai mạc và hoạt động trên trang TVU.",
+          "url": "https://www.tvu.edu.vn/khai-mac-hoi-thi-nghiep-vu-su-pham-gioi-nam-hoc-2026-2027/"
+        },
+        {
+          "title": "Không khí đầu năm học tại TVU Fest",
+          "text": "Chương trình kết nối người học trong năm 2026.",
+          "url": "https://www.tvu.edu.vn/tvu-fest-2026-bung-no-nang-luong-khoi-dong-nam-hoc-moi/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/"
+    },
+    {
+      "id": "connect",
+      "type": "contact",
+      "title": "Kết nối với Đại học Trà Vinh",
+      "text": "126 Nguyễn Thiện Thành, Phường Hòa Thuận, tỉnh Vĩnh Long.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Điện thoại",
+          "text": "(+84) 2943 855 246",
+          "url": "tel:+842943855246"
+        },
+        {
+          "title": "Email",
+          "text": "tvu@tvu.edu.vn",
+          "url": "mailto:tvu@tvu.edu.vn"
+        },
+        {
+          "title": "Website chính thức",
+          "text": "tvu.edu.vn",
+          "url": "https://www.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://www.tvu.edu.vn/"
+    }
+  ],
+  "theme": "glass"
+}

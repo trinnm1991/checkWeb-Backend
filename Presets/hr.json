@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "id": "hr",
+  "name": "Ban Tổ chức Nhân sự",
+  "shortName": "TVU",
+  "subtitle": "ĐẠI HỌC TRÀ VINH",
+  "source": "https://nhansu.tvu.edu.vn/",
+  "checkedAt": "",
+  "theme": "administration",
+  "modules": [
+    {
+      "id": "home",
+      "type": "hero",
+      "title": "Chuyên nghiệp trong công việc.\nTận tâm với đội ngũ.",
+      "text": "Không gian mẫu dành cho thông tin tổ chức, nhân sự và hướng dẫn nghiệp vụ. Nội dung cần được đơn vị rà soát trước khi sử dụng.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Website đơn vị",
+          "text": "Thông tin tại kênh tham chiếu",
+          "url": "https://nhansu.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://nhansu.tvu.edu.vn/"
+    },
+    {
+      "id": "services",
+      "type": "links",
+      "title": "Tra cứu nhanh",
+      "text": "",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Hồ sơ nhân sự",
+          "text": "",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Biểu mẫu",
+          "text": "",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Chế độ, chính sách",
+          "text": "",
+          "url": "https://nhansu.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://nhansu.tvu.edu.vn/"
+    },
+    {
+      "id": "news",
+      "type": "news",
+      "title": "Thông báo và hướng dẫn",
+      "text": "Các nhóm nội dung dưới đây là gợi ý biên tập, chưa phải thông báo đã ban hành.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Rà soát thông tin hồ sơ",
+          "text": "Vị trí dành cho hướng dẫn cập nhật hồ sơ viên chức, người lao động.",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Đào tạo và bồi dưỡng",
+          "text": "Vị trí dành cho kế hoạch phát triển năng lực đã được phê duyệt.",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Chế độ và chính sách",
+          "text": "Vị trí dành cho thông báo nghiệp vụ từ đơn vị phụ trách.",
+          "url": "https://nhansu.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://nhansu.tvu.edu.vn/"
+    },
+    {
+      "id": "procedures",
+      "type": "cards",
+      "title": "Hỗ trợ viên chức và người lao động",
+      "text": "Tổ chức thông tin theo nhu cầu sử dụng.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Hồ sơ nhân sự",
+          "text": "Thông tin, thành phần hồ sơ và đầu mối tiếp nhận.",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Nghỉ phép, công tác",
+          "text": "Hướng dẫn chuẩn bị đề nghị và theo dõi xử lý.",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Đào tạo, bồi dưỡng",
+          "text": "Thông tin về nhu cầu và kế hoạch học tập.",
+          "url": "https://nhansu.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://nhansu.tvu.edu.vn/"
+    },
+    {
+      "id": "documents",
+      "type": "list",
+      "title": "Biểu mẫu và tài liệu",
+      "text": "Bản mẫu chỉ bố trí nhóm tài liệu. Chưa cung cấp biểu mẫu nghiệp vụ chính thức.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Cập nhật hồ sơ",
+          "text": "Nhóm biểu mẫu minh họa",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Đề nghị nghỉ phép",
+          "text": "Nhóm biểu mẫu minh họa",
+          "url": "https://nhansu.tvu.edu.vn/"
+        },
+        {
+          "title": "Nhu cầu bồi dưỡng",
+          "text": "Nhóm biểu mẫu minh họa",
+          "url": "https://nhansu.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://nhansu.tvu.edu.vn/"
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "title": "Liên hệ Ban Tổ chức Nhân sự",
+      "text": "Địa chỉ, số điện thoại và email nghiệp vụ cần được đơn vị xác nhận.",
+      "enabled": true,
+      "items": [
+        {
+          "title": "Website tham chiếu",
+          "text": "nhansu.tvu.edu.vn",
+          "url": "https://nhansu.tvu.edu.vn/"
+        }
+      ],
+      "source": "https://nhansu.tvu.edu.vn/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[Unit]
+Description=CheckWeb API and capture worker
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=visualmon
+Group=visualmon
+WorkingDirectory=/opt/checkweb/publish
+EnvironmentFile=/etc/checkweb/checkweb.env
+ExecStart=/usr/bin/dotnet /opt/checkweb/publish/CheckWeb.Backend.dll
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=30
+KillSignal=SIGINT
+
+[Install]
+WantedBy=multi-user.target
